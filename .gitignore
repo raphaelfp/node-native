@@ -1,0 +1,6 @@
+.vscode
+c++/build
+rust/target
+rust/node_modules
+rust/Cargo.lock
+rust/yarn.lock
